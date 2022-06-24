@@ -1,4 +1,4 @@
-# course-registration
+# 수강신청 프로그램
 # EA
 # ![EA](https://user-images.githubusercontent.com/90022940/175594537-c94de122-20dc-4061-a8da-834e17debe7d.png)
 # FUNCTION
